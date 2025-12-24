@@ -1,0 +1,15 @@
+# 📄 requirements.txt
+
+unstructured[all-docs]
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-huggingface
+chromadb
+sentence-transformers
+python-dotenv
+tiktoken
+pillow
+opencv-python
+numpy
